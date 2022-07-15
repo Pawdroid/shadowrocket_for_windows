@@ -12,5 +12,5 @@ A V2Ray client for Windows, support [Xray core](https://github.com/XTLS/Xray-cor
 
 ### Thanks
 - v2rayN [v2rayN](https://github.com/2dust/v2rayN)
-- - v2fly [https://github.com/v2fly/v2ray-core](https://github.com/v2fly/v2ray-core)
+- v2fly [https://github.com/v2fly/v2ray-core](https://github.com/v2fly/v2ray-core)
 - Xray [https://github.com/XTLS/Xray-core](https://github.com/XTLS/Xray-core)
