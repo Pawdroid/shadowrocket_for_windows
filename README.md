@@ -1,5 +1,5 @@
 # shadowrocket for windows
-A V2Ray client for Windows, support [Xray core](https://github.com/XTLS/Xray-core) and [v2fly core](https://github.com/v2fly/v2ray-core)
+A V2Ray client for Windows, support [Xray core](https://github.com/XTLS/Xray-core) and [v2fly core](https://github.com/v2fly/v2ray-core), buildin lots of free servers.
 
 ### How to use
 - download shadowrocket_for_windows.zip from releases
